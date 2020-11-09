@@ -1,0 +1,24 @@
+{
+  "name": "pronote",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Epicrafter",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "puppeteer": "^5.4.1",
+    "quick.db": "^7.1.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Epicrafter/Pronote-Discord-Bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Epicrafter/Pronote-Discord-Bot/issues"
+  },
+  "homepage": "https://github.com/Epicrafter/Pronote-Discord-Bot#readme",
+  "description": ""
+}

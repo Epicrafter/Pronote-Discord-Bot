@@ -1,1 +1,1 @@
-## NOTE: This theme is currently in developement
+## NOTE: This project is currently under developement

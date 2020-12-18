@@ -1,5 +1,5 @@
 const puppeteer = require("puppeteer");
-const credentials = require("./credentials.json");
+const credentials = require("./config.json");
 
 ( async () => {
 
